@@ -12,3 +12,4 @@ G:\COIS1020\Practice\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
 G:\COIS1020\Practice\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 G:\COIS1020\Practice\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 G:\COIS1020\Practice\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+G:\COIS1020\Practice\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
