@@ -7,7 +7,7 @@ public static class MovieDiscount{
         char rating; 
         const int CHILD_AGE = 12;
         const int SENIOR_AGE = 65;
-        Console.WriteLine("When age is {0} or >=65 and rating is {1}", CHILD_AGE, SENIOR_AGE);
+        Console.WriteLine("Discount applies when age is {0} or >=65 and rating is {1}", CHILD_AGE, SENIOR_AGE);
         
         Console.WriteLine("Enter age:");
         age = Convert.ToInt32(Console.ReadLine());
