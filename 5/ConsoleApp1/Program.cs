@@ -10,7 +10,7 @@ public static class PetFood
         Console.WriteLine("Enter the grade of your food:");
         foodGrade = Convert.ToChar(Console.ReadLine());
 
-        switch(foodGrade){
+        switch(char.ToUpper(foodGrade)){
             case 'A':
             Console.WriteLine("the food is high quality");
             break;
