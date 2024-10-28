@@ -1,4 +1,25 @@
-﻿
+﻿// Program Name: SalaryAverageCalculator.cs
+// Author: Zannatul Tasnim Tahiti
+// Student Number: [Your Student Number Here]
+// Description: This program calculates the average salary for individuals based on their education type.
+//              The education types are: 
+//              'U' for University degrees, 
+//              'C' for College diplomas, 
+//              'H' for High school diplomas. 
+//              The program continues to accept salary inputs until the user enters 'Q' to quit.
+//              
+//              The program will display an error message for invalid education types or negative salaries.
+
+
+// Data Dictionary:
+        // edType: char - Represents the education type input by the user.
+        // salaryData: double - Represents the salary input by the user.
+        // totalUniversity: double - Accumulates total salaries for university graduates.
+        // totalCollege: double - Accumulates total salaries for college diploma holders.
+        // totalHighSchool: double - Accumulates total salaries for high school graduates.
+        // countUniversity: int - Counts the number of university graduates.
+        // countCollege: int - Counts the number of college diploma holders.
+        // countHighSchool: int - Counts the number of high school graduates.
 using System;
 
 public static class AveragesForStudents{
